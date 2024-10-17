@@ -1,0 +1,17 @@
+{
+    "qml_files": [
+        "1. 2024 POPCEN-CBMS Form 2.qml",
+        "2. 2024 POPCEN-CBMS Form 8A.qml",
+        "3. 2024 POPCEN-CBMS Form 8B.qml",
+        "4. 2024 POPCEN-CBMS Building Points.qml",
+        "5. 2024 POPCEN-CBMS Block.qml",
+        "6. 2024 POPCEN-CBMS EA.qml",
+        "7. 2024 POPCEN-CBMS Barangay.qml",
+        "8. 2024 POPCEN-CBMS Road.qml",
+        "9. 2024 POPCEN-CBMS River.qml",
+        "10. 2024 POPCEN-CBMS Landmark.qml",
+        "11. 2024 POPCEN-CBMS F2 Digitization.qml",
+        "12. 2024 POPCEN-CBMS F2 MP.qml",
+        "qml_config.json"
+    ]
+}
