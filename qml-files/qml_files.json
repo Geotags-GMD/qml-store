@@ -12,6 +12,8 @@
         "10. 2024 POPCEN-CBMS Landmark.qml",
         "11. 2024 POPCEN-CBMS F2 Digitization.qml",
         "12. 2024 POPCEN-CBMS F2 MP.qml",
+        "SF Reference Data.qml",
+        "GP Reference Data.qml",
         "qml_config.json"
     ]
 }
