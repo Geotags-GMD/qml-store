@@ -11,6 +11,8 @@
         "form8a": "2. 2024 POPCEN-CBMS Form 8A.qml",
         "form8b": "3. 2024 POPCEN-CBMS Form 8B.qml",
         "outside_group_qml_11": "11. 2024 POPCEN-CBMS F2 Digitization.qml",
-        "outside_group_qml_12": "12. 2024 POPCEN-CBMS F2 MP.qml"
+        "outside_group_qml_12": "12. 2024 POPCEN-CBMS F2 MP.qml",
+        "refSF": "SF Reference Data.qml",
+        "refGP": "GP Reference Data.qml"
     }
 }
