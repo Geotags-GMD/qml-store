@@ -14,6 +14,8 @@
         "12. 2024 POPCEN-CBMS F2 MP.qml",
         "SF Reference Data.qml",
         "GP Reference Data.qml",
+        "GP Map Digitization.qml",
+        "SF Map Digitization.qml",
         "qml_config.json"
     ]
 }
