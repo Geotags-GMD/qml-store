@@ -16,6 +16,7 @@
         "GP Reference Data.qml",
         "GP Map Digitization.qml",
         "SF Map Digitization.qml",
-        "qml_config.json"
+        "qml_config.json",
+        "qml_files.json"
     ]
 }
